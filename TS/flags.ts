@@ -39,7 +39,7 @@ let randomPays:Pays;
 // défintion du type des données récupérées
 
 interface Datas{
-    translation: {
+    translations: {
         fr:string;
         [props:string]:string;
     }
